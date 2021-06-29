@@ -1,6 +1,6 @@
-## Django REST API project.
+#### Django REST API project.
 
->### Installing
+>##### Installing
 ```
  python -m venv venv
  source venv/Scripts/activate
