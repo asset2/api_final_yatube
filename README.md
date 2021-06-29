@@ -1,4 +1,4 @@
-#### Django REST API project.
+### Django REST API project.
 
 >##### Installing
 ```
@@ -18,4 +18,4 @@ POST http://127.0.0.1:8000/api/v1/posts/
 ```
 
 
-Project documentation: [Redoc](http://localhost:8000/redoc/)
+Project documentation: [http://127.0.0.1:8000/redoc/](http://localhost:8000/redoc/)
