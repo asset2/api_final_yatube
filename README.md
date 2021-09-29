@@ -18,8 +18,10 @@ POST http://127.0.0.1:8000/api/v1/posts/
 ```
 
 
-Project documentation: [http://127.0.0.1:8000/redoc/](http://localhost:8000/redoc/)
-```
-Exapmle: [https://asset2.co.vu/redoc/](https://asset2.co.vu/redoc/)
-```
+>##### Project documentation: 
+[http://127.0.0.1:8000/redoc/](http://localhost:8000/redoc/)
+
+>##### Exapmle: 
+[https://asset2.co.vu/redoc/](https://asset2.co.vu/redoc/)
+
 
