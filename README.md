@@ -30,5 +30,5 @@ Python 3, Django REST Framework, PostgreSQL, gunicorn, nginx, Яндекс.Об�
 ```
 >##### Планы по доработке:
 ```
-Запускать в Docker контейнерах nginx, PostgreSQL, Django+gunicorn
+Запустить в Docker контейнерах nginx, PostgreSQL, Django+gunicorn
 ```
