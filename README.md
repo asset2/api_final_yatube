@@ -1,6 +1,6 @@
-### Django REST API project.
+### Django REST API для проекта Yatube - соц. сеть для публикации дневников.
 
->##### Installing
+>##### Установка
 ```
  python -m venv venv
  source venv/Scripts/activate
@@ -18,10 +18,17 @@ POST http://127.0.0.1:8000/api/v1/posts/
 ```
 
 
->##### Project documentation: 
+>##### Документация проекта:
 [http://127.0.0.1:8000/redoc/](http://localhost:8000/redoc/)
 
->##### Exapmle: 
+>##### Действующий пимер:
 [https://asset2.co.vu/redoc/](https://asset2.co.vu/redoc/)
 
-
+>##### Стек:
+```
+Python 3, Django REST Framework, PostgreSQL, gunicorn, nginx, Яндекс.Облако(Ubuntu 18.04), pytest, Simple-JWT, GIT
+```
+>##### Планы по доработке:
+```
+Запускать в Docker контейнерах nginx, PostgreSQL, Django+gunicorn
+```
