@@ -21,7 +21,7 @@ POST http://127.0.0.1:8000/api/v1/posts/
 >##### Документация проекта:
 [http://127.0.0.1:8000/redoc/](http://localhost:8000/redoc/)
 
->##### Действующий пимер:
+>##### Действующий пример:
 [https://asset2.co.vu/redoc/](https://asset2.co.vu/redoc/)
 
 >##### Стек:
